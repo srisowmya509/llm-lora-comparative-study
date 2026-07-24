@@ -175,7 +175,7 @@ LoRA fine-tuning completed successfully.
 
 QLoRA fine-tuning completed successfully using 4-bit quantization.
 
-![QLoRA Training](qlora_training.png)
+![QLoRA Training](qlora_training..png)
 
 
 ---
