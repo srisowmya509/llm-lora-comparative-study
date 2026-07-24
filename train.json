@@ -1,0 +1,14 @@
+[
+  {
+    "instruction": "Explain machine learning in simple words.",
+    "response": "Machine learning is a technology where computers learn patterns from data and make predictions without being explicitly programmed."
+  },
+  {
+    "instruction": "What is deep learning?",
+    "response": "Deep learning is a branch of machine learning that uses neural networks with multiple layers to learn complex patterns from large amounts of data."
+  },
+  {
+    "instruction": "Explain artificial intelligence.",
+    "response": "Artificial intelligence is the field of creating machines that can perform tasks that normally require human intelligence."
+  }
+]
